@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.gradle.tutorial.FizzBuzzProcessorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-03-25T11:01:42" hostname="PREGO" time="0.227">
+  <properties/>
+  <testcase name="FizzBuzzNormalNumbers()" classname="com.gradle.tutorial.FizzBuzzProcessorTest" time="0.227"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
